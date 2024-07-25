@@ -1,5 +1,5 @@
 #Task 1
-weather = "rainy"
+weather = "sunny"
 #the indentation in the example was incorrect.  I hadded the indent on the print command lines.
 if weather == "sunny":
     print("Wear sunglasses!")
