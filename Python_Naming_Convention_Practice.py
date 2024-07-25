@@ -4,3 +4,7 @@ user_location = "New York"
 MAX_LIMIT = 1000 #added _ to MAX_LIMIT to closer match the correct convention with the others.  Kept it all uppercase to show that it is a constant.
 
 #nothing needed to be changed about user_location. user_location was already written in Snake Case.
+print(pi_value)
+print(user_age)
+print(user_location)
+print(MAX_LIMIT)
